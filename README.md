@@ -10,7 +10,7 @@ This is an unofficial Nakamigos resource and tool library, including the origina
 - **File Naming:** `0.png`, `1.png`, `2.png`, …, `19999.png`
 
 ### 2. Pixels Data
-- **Location:** `data/pixel_data/`
+- **Location:** `data/pixels_data/`
 - **Formats:** CSV and TXT
 - **Details:**
   - Contains 20,000 lines, each corresponding to the pixel values of one image (24×24 = 576 pixels)
